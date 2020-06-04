@@ -1,0 +1,13 @@
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.exe
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.deps.json
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.runtimeconfig.json
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.runtimeconfig.dev.json
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.dll
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\bin\Debug\netcoreapp3.1\HotelReservation.pdb
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.csprojAssemblyReference.cache
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.AssemblyInfo.cs
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.dll
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.pdb
+C:\Users\aleksandar.pantovic\source\repos\HotelReservation\obj\Debug\netcoreapp3.1\HotelReservation.genruntimeconfig.cache
